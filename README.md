@@ -11,8 +11,8 @@ and call
 mvn
 ``
 
-This will download everything and compile it. The jetty will fire up and deploy the webapp.
+This will download everything and compile it. Then jetty will fire up and deploy the webapp.
 
 Now point your browser at http://localhost:8080
 
-hope this is useful for you guys ;)
+Hope this is useful for you guys ;)
